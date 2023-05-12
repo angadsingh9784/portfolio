@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    background-image: url("./NewC.jpg");
+    background-image: url("newC.jpg");
     background-size: cover;
     background-position: center center;
     color: white;
